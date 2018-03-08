@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eko Andri - Internship Assignment Blog</title>
+    <link>/</link>
+    <description>Recent content on Eko Andri - Internship Assignment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2018 18:03:20 +0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fourthpost</title>
+      <link>/posts/fourthpost/</link>
+      <pubDate>Thu, 08 Mar 2018 18:03:20 +0700</pubDate>
+      
+      <guid>/posts/fourthpost/</guid>
+      <description>CSS masih ngga tampil untuk sub-post folder T_T</description>
+    </item>
+    
+    <item>
+      <title>Thirdpost: Markdown Cheet-Sheat</title>
+      <link>/posts/thirdpost/</link>
+      <pubDate>Thu, 08 Mar 2018 16:30:33 +0700</pubDate>
+      
+      <guid>/posts/thirdpost/</guid>
+      <description>VS Code Markdown
+Github Mastering Markdown
+It&amp;rsquo;s very easy to make some words bold and other words italic with Markdown. You can even link to Google!
+Sometimes you want numbered lists:
+ One Two Three  Sometimes you want bullet points:
+ Start a line with a star Profit!  Alternatively,
+ Dashes work just as well And if you have sub points, put two spaces before the dash or star:  Like this And this   If you want to embed images, this is how you do it:</description>
+    </item>
+    
+    <item>
+      <title>Secondpost</title>
+      <link>/posts/secondpost/</link>
+      <pubDate>Thu, 08 Mar 2018 15:48:48 +0700</pubDate>
+      
+      <guid>/posts/secondpost/</guid>
+      <description>Testing lagi</description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>/posts/firstpost/</link>
+      <pubDate>Thu, 08 Mar 2018 15:39:26 +0700</pubDate>
+      
+      <guid>/posts/firstpost/</guid>
+      <description>Testng testing</description>
+    </item>
+    
+  </channel>
+</rss>
