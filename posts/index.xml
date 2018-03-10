@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Eko Andri - Internship Assignment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Mar 2018 16:12:05 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Mar 2018 18:41:05 +0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seventhpost: Day 1 - Database Mockup</title>
+      <link>/posts/seventhpost/</link>
+      <pubDate>Sat, 10 Mar 2018 18:41:05 +0700</pubDate>
+      
+      <guid>/posts/seventhpost/</guid>
+      <description>Completely overwhelming with this blog engine: Hugo and Gatsby I miss personal deadline to submit the mockup for both the database and the form for my assignment.
+It&amp;rsquo;s day 3 now. And here it is.</description>
+    </item>
     
     <item>
       <title>Sixthpost: Moving to Gatsby</title>
