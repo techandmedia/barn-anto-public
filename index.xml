@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eko Andri - Internship Assignment Blog</title>
-    <link>https://barn-anto.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Eko Andri - Internship Assignment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Mar 2018 16:12:05 +0700</lastBuildDate>
     
-	<atom:link href="https://barn-anto.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sixthpost: Moving to Gatsby</title>
-      <link>https://barn-anto.netlify.com/posts/sixthpost/</link>
+      <link>/posts/sixthpost/</link>
       <pubDate>Sat, 10 Mar 2018 16:12:05 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/sixthpost/</guid>
+      <guid>/posts/sixthpost/</guid>
       <description>Moving blog engine to Gatsby Gatsby is static generator based on React, here is the link Gatsby Website
 Based on React component, it&amp;rsquo;s a good chance to not only learn React in general, but also learn technologies behind a web blog.
 Plenty new things to learn while learning Gatsby and React: * Markdown (like this one) * NetlifyCMS * Gatsby configuration file based on React syntax (this is one hardest to learn) * and many other things</description>
@@ -24,28 +24,28 @@ Plenty new things to learn while learning Gatsby and React: * Markdown (like thi
     
     <item>
       <title>Fifthpost</title>
-      <link>https://barn-anto.netlify.com/posts/fifthpost/</link>
+      <link>/posts/fifthpost/</link>
       <pubDate>Fri, 09 Mar 2018 01:42:51 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/fifthpost/</guid>
+      <guid>/posts/fifthpost/</guid>
       <description>Akhirnya bisa muncul css nya :D:</description>
     </item>
     
     <item>
       <title>Fourthpost</title>
-      <link>https://barn-anto.netlify.com/posts/fourthpost/</link>
+      <link>/posts/fourthpost/</link>
       <pubDate>Thu, 08 Mar 2018 18:03:20 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/fourthpost/</guid>
+      <guid>/posts/fourthpost/</guid>
       <description>CSS masih ngga tampil untuk sub-post folder T_T</description>
     </item>
     
     <item>
       <title>Thirdpost: Markdown Cheet-Sheat</title>
-      <link>https://barn-anto.netlify.com/posts/thirdpost/</link>
+      <link>/posts/thirdpost/</link>
       <pubDate>Thu, 08 Mar 2018 16:30:33 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/thirdpost/</guid>
+      <guid>/posts/thirdpost/</guid>
       <description>VS Code Markdown
 Github Mastering Markdown
 It&amp;rsquo;s very easy to make some words bold and other words italic with Markdown. You can even link to Google!
@@ -57,19 +57,19 @@ Sometimes you want numbered lists:
     
     <item>
       <title>Secondpost</title>
-      <link>https://barn-anto.netlify.com/posts/secondpost/</link>
+      <link>/posts/secondpost/</link>
       <pubDate>Thu, 08 Mar 2018 15:48:48 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/secondpost/</guid>
+      <guid>/posts/secondpost/</guid>
       <description>Testing lagi</description>
     </item>
     
     <item>
       <title>Firstpost</title>
-      <link>https://barn-anto.netlify.com/posts/firstpost/</link>
+      <link>/posts/firstpost/</link>
       <pubDate>Thu, 08 Mar 2018 15:39:26 +0700</pubDate>
       
-      <guid>https://barn-anto.netlify.com/posts/firstpost/</guid>
+      <guid>/posts/firstpost/</guid>
       <description>Testng testing</description>
     </item>
     
