@@ -6,10 +6,20 @@
     <description>Recent content on Eko Andri - Internship Assignment Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 15:12:50 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 22:01:57 +0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/posts/landing-page/</link>
+      <pubDate>Tue, 03 Apr 2018 22:01:57 +0700</pubDate>
+      
+      <guid>/posts/landing-page/</guid>
+      <description>Made with Gravit Designer
+Landing-Page Mockup Under-Construction Mockup </description>
+    </item>
     
     <item>
       <title>Db Mockup2</title>
